@@ -1,0 +1,166 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Sách lớp 1"
+    },
+    {
+      "id": 2,
+      "name": "Sách lớp 2"
+    },
+    {
+      "id": 3,
+      "name": "Sách lớp 3"
+    },
+    {
+      "id": 4,
+      "name": "Sách lớp 4"
+    },
+    {
+      "id": 5,
+      "name": "Sách lớp 5"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Vở bài tập toán lớp 1 ",
+      "cate_id": 1,
+      "price": 12500,
+      "detail": "✿ Toán học là môn học mà trẻ sẽ được học từ cấp mẫu giáo đến lúc hết đại học. Môn học này cũng được xem là môn học chính xuyên suốt của các em, vì thế việc có một nền tảng kiến thức tốt sẽ giúp trẻ tiếp cận tốt hơn với bộ môn ở những lớp cao hơn ",
+      "image": "../img/api/toan1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Sách Tiếng Việt lớp 1 ",
+      "cate_id": 1,
+      "price": 1900,
+      "detail": "❖ Tập đánh vần tiếng Việt phiên bản mới giúp bé làm quen với các nguyên âm và phụ âm để bé có nền tảng cơ bản cho việc đọc chữ. Từ đó bé sẽ được làm quen với việc ghép âm ",
+      "image": "../img/api/tv1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Sách Đạo Đức lớp 1",
+      "cate_id": 1,
+      "price": 11500,
+      "detail": "Cuốn sách giáo khoa Đạo Đức là sách giáo khoa cơ bản do Bộ Giáo Dục Đào Tạo tổ chức biên soạn, sách gồm 14 bài học đạo đức về các đức tính tốt cần có và cách ứng xử với môi trường và xã hội",
+      "image": "../img/api/daoduc1.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Vở bài tập toán lớp 2 ",
+      "cate_id": 2,
+      "price": 18000,
+      "detail": "✿ Toán học là môn học mà trẻ sẽ được học từ cấp mẫu giáo đến lúc hết đại học. Môn học này cũng được xem là môn học chính xuyên suốt của các em, vì thế việc có một nền tảng kiến thức tốt sẽ giúp trẻ tiếp cận tốt hơn với bộ môn ở những lớp cao hơn ",
+      "image": "../img/api/toan2.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Sách Tiếng Việt lớp 2 ",
+      "cate_id": 2,
+      "price": 6500,
+      "detail": "❖ Tập đánh vần tiếng Việt phiên bản mới giúp bé làm quen với các nguyên âm và phụ âm để bé có nền tảng cơ bản cho việc đọc chữ. Từ đó bé sẽ được làm quen với việc ghép âm ",
+      "image": "../img/api/tv1.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Sách Đạo Đức lớp 2 ",
+      "cate_id": 2,
+      "price": 3500,
+      "detail": "Cuốn sách giáo khoa Đạo Đức là sách giáo khoa cơ bản do Bộ Giáo Dục Đào Tạo tổ chức biên soạn, sách gồm 14 bài học đạo đức về các đức tính tốt cần có và cách ứng xử với môi trường và xã hội",
+      "image": "../img/api/daoduc2.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Vở bài tập toán lớp 3 ",
+      "cate_id": 3,
+      "price": 9500,
+      "detail": "✿ Toán học là môn học mà trẻ sẽ được học từ cấp mẫu giáo đến lúc hết đại học. Môn học này cũng được xem là môn học chính xuyên suốt của các em, vì thế việc có một nền tảng kiến thức tốt sẽ giúp trẻ tiếp cận tốt hơn với bộ môn ở những lớp cao hơn ",
+      "image": "../img/api/toan3.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Sách Tiếng Việt lớp 3 ",
+      "cate_id": 3,
+      "price": 5000,
+      "detail": "❖ Tập đánh vần tiếng Việt phiên bản mới giúp bé làm quen với các nguyên âm và phụ âm để bé có nền tảng cơ bản cho việc đọc chữ. Từ đó bé sẽ được làm quen với việc ghép âm ",
+      "image": "../img/api/tv3.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Sách Đạo Đức lớp 3",
+      "cate_id": 3,
+      "price": 19000,
+      "detail": "Cuốn sách giáo khoa Đạo Đức là sách giáo khoa cơ bản do Bộ Giáo Dục Đào Tạo tổ chức biên soạn, sách gồm 14 bài học đạo đức về các đức tính tốt cần có và cách ứng xử với môi trường và xã hội",
+      "image": "../img/api/daoduc3.png"
+    },
+    {
+      "id": 10,
+      "name": "Vở bài tập toán lớp 4 ",
+      "cate_id": 4,
+      "price": 17500,
+      "detail": "✿ Toán học là môn học mà trẻ sẽ được học từ cấp mẫu giáo đến lúc hết đại học. Môn học này cũng được xem là môn học chính xuyên suốt của các em, vì thế việc có một nền tảng kiến thức tốt sẽ giúp trẻ tiếp cận tốt hơn với bộ môn ở những lớp cao hơn ",
+      "image": "../img/api/toan4.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Sách Tiếng Việt lớp 4 ",
+      "cate_id": 4,
+      "price": 7500,
+      "detail": "❖ Tập đánh vần tiếng Việt phiên bản mới giúp bé làm quen với các nguyên âm và phụ âm để bé có nền tảng cơ bản cho việc đọc chữ. Từ đó bé sẽ được làm quen với việc ghép âm ",
+      "image": "../img/api/tv4.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Sách Đạo Đức lớp 4",
+      "cate_id": 4,
+      "price": 10500,
+      "detail": "Cuốn sách giáo khoa Đạo Đức là sách giáo khoa cơ bản do Bộ Giáo Dục Đào Tạo tổ chức biên soạn, sách gồm 14 bài học đạo đức về các đức tính tốt cần có và cách ứng xử với môi trường và xã hội",
+      "image": "../img/api/daoduc4.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Vở bài tập toán lớp 5 ",
+      "cate_id": 5,
+      "price": 12200,
+      "detail": "✿ Toán học là môn học mà trẻ sẽ được học từ cấp mẫu giáo đến lúc hết đại học. Môn học này cũng được xem là môn học chính xuyên suốt của các em, vì thế việc có một nền tảng kiến thức tốt sẽ giúp trẻ tiếp cận tốt hơn với bộ môn ở những lớp cao hơn ",
+      "image": "../img/api/toan5.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Sách Tiếng Việt lớp 5 ",
+      "cate_id": 5,
+      "price": 4500,
+      "detail": "❖ Tập đánh vần tiếng Việt phiên bản mới giúp bé làm quen với các nguyên âm và phụ âm để bé có nền tảng cơ bản cho việc đọc chữ. Từ đó bé sẽ được làm quen với việc ghép âm ",
+      "image": "../img/api/tv5.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Sách Đạo Đức lớp 5",
+      "cate_id": 5,
+      "price": 16500,
+      "detail": "Cuốn sách giáo khoa Đạo Đức là sách giáo khoa cơ bản do Bộ Giáo Dục Đào Tạo tổ chức biên soạn, sách gồm 14 bài học đạo đức về các đức tính tốt cần có và cách ứng xử với môi trường và xã hội",
+      "image": "../img/api/daoduc5.jpg"
+    }
+  ],
+  "order": [
+    {
+      "id": 1,
+      "customer_name": "Trần Hữu Phú",
+      "customer_address": "TP.HCM",
+      "customer_email": "phuthps13206@fpt.edu.vn",
+      "customer_phone_number": "0347205389",
+      "created_date": "2021-25-09",
+      "startus": "Thành công"
+    }
+  ],
+  "order_details": [
+    {
+      "id": 1,
+      "order_id": 1,
+      "product_id": "1",
+      "quantity": 1,
+      "unit_price": 12500
+    }
+  ]
+}
